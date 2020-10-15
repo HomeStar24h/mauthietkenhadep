@@ -1,0 +1,1311 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179147450-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-179147450-1');
+  </script>
+
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+  <title>DFH Group - Chuyên thi?t k?, tu v?n n?i th?t</title>
+  <!-- Favicon-->
+  <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+  <!-- Font Awesome icons (free version)-->
+  <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
+  <!-- Google fonts-->
+  <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic"
+    rel="stylesheet" type="text/css" />
+  <!-- Third party plugin CSS-->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" rel="stylesheet" />
+  <!-- Core theme CSS (includes Bootstrap)-->
+  <link href="css/styles.css" rel="stylesheet" />
+  <link href="css/animation.css" rel="stylesheet" />
+  <link href="css/ReviewWithRating.css" rel="stylesheet" />
+</head>
+
+<body id="page-top">
+  <!-- Navigation-->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">DFH Group</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+        data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+        aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto my-2 my-lg-0">
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#about">Gi?i thi?u</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#services">D?ch v?</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#portfolio">S?n ph?m</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#news">Tin t?c</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#contact">Liên h?</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- Masthead-->
+  <header class="masthead">
+    <div class="container h-100">
+      <div class="row h-100 align-items-center justify-content-center text-center">
+        <h1 class="ml5">
+          <span class="text-wrapper">
+            <span class="line line1"></span>
+            <span class="letters letters-left">Luxury</span>
+            <span class="letters ampersand">&amp;</span>
+            <span class="letters letters-right">Modern</span>
+            <span class="line line2"></span>
+          </span>
+        </h1>
+        <div class="col-lg-8 align-self-baseline">
+          <hr class="divider my-4" />
+          <p class="text-white-75 font-weight-light mb-5">
+            Chúng tôi mang d?n cho b?n nh?ng m?u thi?t k? v?i xu hu?ng b?t k?p
+            th?i d?i t? nh?ng chuyên gia hàng d?u trong linh v?c thi?t k? nhà
+            ?
+          </p>
+          <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Xem thêm</a>
+        </div>
+      </div>
+    </div>
+  </header>
+  <!--About-->
+  <section class="page-section bg-primary" id="about">
+    <div class="container h-100">
+      <div class="row h-100 align-items-center justify-content-center text-center">
+        <div class="col-lg-10 align-self-end">
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe src="https://www.youtube.com/embed/WvyskCiAauo?autoplay=1" allow="autoplay" allow = "auto play" allowfullscreen>
+            </iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="page-section" id="services">
+    <div class="container">
+      <h2 class="text-center mt-0">Chúng tôi cung c?p</h2>
+      <hr class="divider my-4" />
+      <div class="row">
+        <div class="col-lg-3 col-md-6 text-center">
+          <div class="mt-5">
+            <i class="fas fa-4x fa-home text-primary mb-4"></i>
+            <h3 class="h4 mb-2">Thi?t k? nhà</h3>
+            <p class="text-muted mb-0">
+              Ki?n t?o nh?ng công trình thi?t k? d?p cho khách hàng
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6 text-center">
+          <div class="mt-5">
+            <i class="fas fa-4x fa-lightbulb text-primary mb-4"></i>
+            <h3 class="h4 mb-2">Thi?t k? n?i th?t</h3>
+            <p class="text-muted mb-0">
+              Mang d?n cho b?n nh?ng ý tu?ng v? không gian s?ng hoàn h?o
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6 text-center">
+          <div class="mt-5">
+            <i class="fas fa-4x fa-users text-primary mb-4"></i>
+            <h3 class="h4 mb-2">Tu v?n thi?t k?</h3>
+            <p class="text-muted mb-0">
+              Luôn l?ng nghe, luôn th?u hi?u mong mu?n khách hàng
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6 text-center">
+          <div class="mt-5">
+            <i class="fas fa-4x fa-certificate text-primary mb-4"></i>
+            <h3 class="h4 mb-2">Th?m tra thi?t k?</h3>
+            <p class="text-muted mb-0">
+              Ð?i ngu Ki?n trúc su, k? su có trình d? cao, làm vi?c chuyên
+              nghi?p
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Portfolio-->
+  <div id="portfolio">
+    <div class="container-fluid p-0">
+      <div class="row no-gutters">
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="assets/img/portfolio/fullsize/7.png">
+            <img class="img-fluid" src="assets/img/portfolio/thumbnails/7.png" alt="" />
+            <div class="portfolio-box-caption">
+              <div class="project-category text-white-50">Xem thêm</div>
+              <div class="project-name">Vinhomes The Harmony</div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="assets/img/portfolio/fullsize/8.png">
+            <img class="img-fluid" src="assets/img/portfolio/thumbnails/8.png" alt="" />
+            <div class="portfolio-box-caption">
+              <div class="project-category text-white-50">Xem thêm</div>
+              <div class="project-name">Showroom DFH Group</div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="assets/img/portfolio/fullsize/9.png">
+            <img class="img-fluid" src="assets/img/portfolio/thumbnails/9.png" alt="" />
+            <div class="portfolio-box-caption">
+              <div class="project-category text-white-50">Xem thêm</div>
+              <div class="project-name">Chung cu SunGrand</div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="assets/img/portfolio/fullsize/10.png">
+            <img class="img-fluid" src="assets/img/portfolio/thumbnails/10.png" alt="" />
+            <div class="portfolio-box-caption">
+              <div class="project-category text-white-50">Xem thêm</div>
+              <div class="project-name">Vinhomes Imperia</div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="assets/img/portfolio/fullsize/11.png">
+            <img class="img-fluid" src="assets/img/portfolio/thumbnails/11.png" alt="" />
+            <div class="portfolio-box-caption">
+              <div class="project-category text-white-50">Xem thêm</div>
+              <div class="project-name">Bi?t th? Tây H?</div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="portfolio-box" href="assets/img/portfolio/fullsize/12.png">
+            <img class="img-fluid" src="assets/img/portfolio/thumbnails/12.png" alt="" />
+            <div class="portfolio-box-caption p-3">
+              <div class="project-category text-white-50">Xem thêm</div>
+              <div class="project-name">Bi?t th? Ecopark</div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Call to action-->
+  <div class="masthead">
+    <div class="container-fluid h-100">
+      <div class="">
+        <div id="carouselExampleIndicators" class="row h-100 row carousel slide" data-ride="carousel">
+          <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+          </ol>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img class="d-block w-100" src="assets/img/portfolio/rating/1.jpg" alt="First slide">
+              <div class=" carousel-caption d-none d-md-block">
+                <div class="circle-image">
+                  <img
+                    src="https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/120038932_1768858819932599_6610838912897199308_n.jpg?_nc_cat=102&_nc_sid=09cbfe&_nc_ohc=0ntA0prr9VQAX9NJgqK&_nc_ht=scontent.fhan2-1.fna&oh=3cb6e4d5d1937a7248fe408f2b9afdd7&oe=5F97B0BF"
+                    width="50">
+                </div>
+                <h3> Nhà có hon 50m2 thôi mà nh? DHF l?i tr? nên thoáng dãng t?i v?y dó, dúng là l?a ch?n tuy?t
+                  v?i mà
+                </h3>
+              </div>
+            </div>
+            <div class="carousel-item ">
+              <img class="d-block w-100" src="assets/img/portfolio/rating/2.jpg" alt="Second slide">
+              <div class=" carousel-caption d-none d-md-block">
+                <div class=" circle-image">
+                  <img
+                    src="https://scontent.fhan2-6.fna.fbcdn.net/v/t1.0-9/118484320_1351194245084743_1443326955155993734_n.jpg?_nc_cat=103&_nc_sid=09cbfe&_nc_ohc=LVVnD7VbovgAX8gzPfE&_nc_ht=scontent.fhan2-6.fna&oh=126bb2db0deb7d0040a9eb16074c8bd4&oe=5F948345"
+                    width="50">
+                </div>
+                <h3> Nh? DHF mà có du?c can nhà mo u?c bao lâu nay
+                </h3>
+              </div>
+            </div>
+            <div class="carousel-item ">
+              <img class="d-block w-100" src="assets/img/portfolio/rating/3.jpg" alt="Third slide">
+              <div class=" carousel-caption d-none d-md-block">
+                <div class=" circle-image">
+                  <img
+                    src="https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/43467072_1099384266893331_1072980382132994048_n.jpg?_nc_cat=102&_nc_sid=8bfeb9&_nc_ohc=0dr4KDixricAX-V2BEY&_nc_ht=scontent.fhan2-1.fna&oh=aa0c06f27c5492641f597254872eb589&oe=5F947199"
+                    width="50">
+                </div>
+                <h3>
+                  Th?t h?nh phúc khi du?c s?ng trong chính gi?c mo c?a mình
+                </h3>
+              </div>
+            </div>
+            <div class="carousel-item ">
+              <img class="d-block w-100" src="assets/img/portfolio/rating/4.jpg" alt="Four slide">
+              <div class=" carousel-caption d-none d-md-block">
+                <div class=" circle-image">
+
+                  <img
+                    src="https://scontent.fhan2-6.fna.fbcdn.net/v/t1.0-9/81781550_2533531600261133_4214721432711593984_n.jpg?_nc_cat=100&_nc_sid=174925&_nc_ohc=K0wVzpkhhKUAX8IvFHi&_nc_ht=scontent.fhan2-6.fna&oh=0b797d375594db485eb06ce0172faae1&oe=5F96F680"
+                    width="50">
+                </div>
+                <h3>
+                  S? ?ng h? trong tuong lai v?i các d? án s?p t?i c?a tôi
+                </h3>
+
+              </div>
+            </div>
+          </div>
+          <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Tru?c</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Sau</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--News-->
+  <div id="news">
+    <div class="container-fluid p-0">
+      <div class="row no-gutters">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel " data-interval="false">
+          <div class="carousel-inner">
+            <!--SLIDE-1-->
+            <div class="carousel-item active">
+              <div class="row no-gutters bg-white position-relative">
+                <div class="col-md-6 mb-md-0 p-md-4">
+                  <img class="img-fluid" src="assets/img/logo.png" alt="" />
+                </div>
+                <div class="col-md-6 position-static p-4 pl-md-0">
+                  <h5 class="mt-0">1. T?ng h?p 10 m?u nhà 2 t?ng mái thái siêu d?p du?c nhi?u gia dình ua chu?ng</h5>
+                  <p>M?u nhà 2 t?ng mái thái là m?t trong nh?ng m?u nhà du?c m?i ngu?i tìm ki?m nhi?u nh?t hi?n nay. Hãy
+                    cùng DFH Group tìm hi?u nh?ng m?u nhà ?ng 2 t?ng hi?n d?i nhé! ...</p>
+
+                  <!-- XEM THÊM
+                   <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#slide1">                
+                  </button> -->
+                  <a href="tintuc/news1.html" class="stretched-link">Xem thêm</a>
+
+                  <!-- Modal -->
+                  <div class="modal fade" id="slide1" tabindex="-1" role="dialog"
+                    aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalCenterTitle">DFH Group</h5>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <div class="modal-body">
+                          <!--Custom-->
+                          <div id="page-content-wrapper">
+                            <!--Body-->
+                            <div class="container-fluid">
+                              <h1 class="mt-4">T?ng h?p 10 m?u nhà 2 t?ng mái thái siêu d?p du?c nhi?u gia dình ua
+                                chu?ng</h1>
+                              <p>M?u nhà 2 t?ng mái thái là m?t trong nh?ng m?u nhà du?c m?i ngu?i tìm ki?m nhi?u nh?t
+                                hi?n nay. Hãy cùng DFH
+                                Group tìm hi?u nh?ng m?u nhà ?ng 2 t?ng hi?n d?i nhé!</p>
+                              <p>M?u nhà 2 t?ng mái thái v?i ki?n trúc mái thái d?c dáo và nhi?u ph?i c?nh d?c s?c nên
+                                du?c r?t nhi?u gia ch?
+                                ua thích. Du?i dây là t?ng h?p 10 m?u nhà 2 t?ng mái thái siêu d?p, giá r? s? giúp các
+                                b?n có thêm nhi?u ý
+                                tu?ng m?i m? cho ngôi nhà c?a mình.</p>
+                              <img src="assets/img/portfolio/slidenews/?nh/1.1.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/1.2.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/1.3.jpg" class="w-100" alt="">
+                              <p>Trên dây là nh?ng chia s? c?a <code>DFH Group</code>v? 10 m?u nhà ?ng 2 t?ng hi?n d?i
+                                du?c yêu thích nh?t
+                                hi?n nay. Hi
+                                v?ng nh?ng m?u nhà trên s? giúp b?n có nh?ng ý tu?ng d?c dáo cho ngôi nhà c?a b?n.
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+            <!--SLIDE-2-->
+            <div class="carousel-item">
+              <div class="row no-gutters bg-white position-relative">
+                <div class="col-md-6 mb-md-0 p-md-4">
+
+                  <img class="img-fluid" src="assets/img/logo.png" alt="" />
+                </div>
+                <div class="col-md-6 position-static p-4 pl-md-0">
+                  <h5 class="mt-0">2. Top 5 m?u thi?t k? nhà 2 t?ng mái thái d?n d?u xu hu?ng nam 2020!</h5>
+                  <p>Chua bao gi? l?i m?t, nhà 2 t?ng mái thái luôn là s? l?a ch?n hàng d?u c?a nhi?u h? gia dình
+                    không
+                    phân bi?t thành th? hay nông thôn b?i nó phù h?p v?i các h? gia dình dù là ít hay nhi?u thành
+                    viên ...</p>
+                  <!-- XEM THÊM -->
+                  <!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#slide2">
+                    XEM THÊM
+                  </button> -->
+                  <a href="tintuc/news2.html" class="stretched-link">Xem thêm</a>
+                  <!-- Modal -->
+                  <div class="modal fade" id="slide2" tabindex="-1" role="dialog"
+                    aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalCenterTitle">DFH Group</h5>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <div class="modal-body">
+                          <!--Custom-->
+                          <div id="page-content-wrapper">
+                            <!--Body-->
+                            <div class="container-fluid">
+                              <h1 class="mt-4">Top 5 m?u thi?t k? nhà 2 t?ng mái thái d?n d?u xu hu?ng nam 2020!</h1>
+                              <p>Chua bao gi? l?i m?t, nhà 2 t?ng mái thái luôn là s? l?a ch?n hàng d?u c?a nhi?u h? gia
+                                dình không
+                                phân bi?t thành th? hay nông thôn b?i nó phù h?p v?i các h? gia dình dù là ít hay nhi?u
+                                thành viên.
+                              </p>
+                              <p>Ð?i s?ng kinh t? ngày càng ?n d?nh, con ngu?i ngoài nh?ng nhu c?u v? an ngon, m?c d?p,
+                                d?n d?n ngu?i
+                                ta quan tâm nhi?u hon d?n không gian s?ng. Không ch? ? ph? th?, ngay c? nh?ng gia dình ?
+                                nông thôn
+                                cung d?n coi tr?ng các m?u thi?t k? tru?c khi thi công. Nh?ng m?u nhà 2 t?ng mái thái là
+                                s? l?a ch?n
+                                hàng d?u c?a nhi?u gia dình Vi?t trong nam 2020 này. Hãy cùng <code>DFH Group</code>
+                                khám phá Top 5
+                                m?u thi?t k?
+                                nhà 2 t?ng mái thái d?n d?u xu hu?ng nam nay nhé!
+                              </p>
+                              <b>
+                                Hi v?ng qua bài vi?t này c?a chúng tôi, b?n dã l?a ch?n du?c m?u thi?t k? phòng khách
+                                phù h?p nh?t
+                                v?i gia dình mình!
+                              </b>
+                              <img class="w-100" src="assets/img/portfolio/slidenews/?nh/2.14.png" alt="">
+                              <img class="w-100" src="assets/img/portfolio/slidenews/?nh/2.8.jpg" alt="">
+                              <img class="w-100" src="assets/img/portfolio/slidenews/?nh/2.9.jpg" alt="">
+                              <b>M?u thi?t k? nhà vuông 2 t?ng mái thái hi?n d?i</b>
+                              <img class="w-100" src="assets//img/portfolio/slidenews/?nh/2.13.jpg" alt="">
+                              <img class="w-100" src="assets//img/portfolio/slidenews/?nh/2.11.jpg" alt="">
+                              <img class="w-100" src="assets//img/portfolio/slidenews/?nh/2.10.jpg" alt="">
+                              <b>M?u thi?t k? nhà 2 t?ng mái thái hi?n d?i, khoa h?c</b>
+                              <img class="w-100" src="assets/img/portfolio/slidenews/?nh/2.7.jpg" alt="">
+                              <img class="w-100" src="assets/img/portfolio/slidenews/?nh/2.8.jpg" alt="">
+                              <img class="w-100" src="assets/img/portfolio/slidenews/?nh/2.9.jpg" alt="">
+                              <b>M?u thi?t k? nhà ch? L 2 t?ng mái thái 4 phòng ng?</b>
+                              <img class="w-100" src="assets/img/portfolio/slidenews/?nh/2.6.jpg" alt="">
+                              <img class="w-100" src="assets/img/portfolio/slidenews/?nh/2.1.jpg" alt="">
+                              <img class="w-100" src="assets/img/portfolio/slidenews/?nh/2.2.jpg" alt="">
+                              <b>M?u thi?t k? nhà 2 t?ng mái thái nông thôn hi?n d?i</b>
+                              <img class="w-100" src="assets/img/portfolio/slidenews/?nh/2.5.jpg" alt="">
+                              <img class="w-100" src="assets/img/portfolio/slidenews/?nh/2.3.jpg" alt="">
+                              <img class="w-100" src="assets/img/portfolio/slidenews/?nh/2.4.jpg" alt="">
+                              <b>Hy v?ng v?i nh?ng g?i ý t? <code>DFH GROUP</code>, b?n s? ch?n du?c m?u
+                                thi?t k? nhà ung
+                                ý!</b>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+            <!--SLIDE-3-->
+            <div class="carousel-item">
+              <div class="row no-gutters bg-white position-relative">
+                <div class="col-md-6 mb-md-0 p-md-4">
+
+                  <img class="img-fluid" src="assets/img/logo.png" alt="" />
+                </div>
+                <div class="col-md-6 position-static p-4 pl-md-0">
+                  <h5 class="mt-0">3. 10+ M?u thi?t k? nhà ?ng 2 t?ng dón d?u xu hu?ng nam 2020!</h5>
+                  <p>Nhà ?ng là lo?i hình nhà ? ph? bi?n và là s? l?a ch?n xây d?ng hàng d?u c?a các gia dình t?i Vi?t
+                    Nam hi?n nay. Nh?t là v?i nh?ng m?nh d?t có m?t ti?n h?p ...</p>
+                  <!-- XEM THÊM
+                  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#slide3">
+                    XEM THÊM
+                  </button> -->
+                  <a href="tintuc/news3.html" class="stretched-link">Xem thêm</a>
+                  <!-- Modal -->
+                  <div class="modal fade" id="slide3" tabindex="-1" role="dialog"
+                    aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalCenterTitle">DFH Group</h5>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <div class="modal-body">
+                          <!--Custom-->
+                          <div id="page-content-wrapper">
+                            <!--Body-->
+                            <div class="container-fluid">
+                              <h1 class="mt-4">10+ M?u thi?t k? nhà ?ng 2 t?ng dón d?u xu hu?ng nam 2020!</h1>
+                              <p>Nhà ?ng là lo?i hình nhà ? ph? bi?n và là s? l?a ch?n xây d?ng hàng d?u c?a các gia
+                                dình t?i Vi?t Nam
+                                hi?n nay. Nh?t là v?i nh?ng m?nh d?t có m?t ti?n h?p.</p>
+                              <p>Chua bao gi? l?i m?t, nhà ?ng 2 t?ng luôn là s? l?a ch?n hàng d?u c?a nhi?u h? gia dình
+                                không phân
+                                bi?t thành th? hay nông thôn b?i nhà 2 t?ng phù h?p v?i các h? gia dình dù là ít hay
+                                nhi?u thành
+                                viên.</p>
+                              <p>Nhà ?ng 2 t?ng là lo?i hình nhà ? khá h?p lý, b?i không quá cao t?ng nhung cung không
+                                thu?c lo?i nhà
+                                ? th?p t?ng, dáp ?ng d?y d? công nang, da d?ng phù h?p v?i các gia dình dù ít hay nhi?u
+                                thành viên.
+                                Nhu c?u tìm hi?u v? nh?ng m?u thi?t k? nhà 2 t?ng chua bao gi? là h? nhi?t. Hi?u và n?m
+                                b?t du?c tâm
+                                lý c?ng d?ng, trong bài vi?t này,<code>DFH Group</code> xin gi?i thi?u d?n quý b?n d?c
+                                10+ m?u thi?t
+                                k? nhà ?ng
+                                2 t?ng dón d?u xu hu?ng nam 2020.</p>
+                              <img src="assets/img/portfolio/slidenews/?nh/3.5.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/3.1.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/3.2.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/3.4.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/3.6.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/3.7.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/3.8.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/3.9.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/3.10.jpg" class="w-100" alt="">
+                              <p>Trên dây là nh?ng m?u thi?t k? nhà ?ng 2 t?ng d?p mà<code>DFH Group</code> t?ng h?p
+                                du?c. Hi v?ng b?n
+                                d?c s?m tìm
+                                du?c m?u nhà ung ý!
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!--SLIDE-4-->
+            <div class="carousel-item">
+              <div class="row no-gutters bg-white position-relative">
+                <div class="col-md-6 mb-md-0 p-md-4">
+                  <img class="img-fluid" src="assets/img/logo.png" alt="" />
+                </div>
+                <div class="col-md-6 position-static p-4 pl-md-0">
+                  <h5 class="mt-0">4. T?ng h?p m?u thi?t k? nhà ph? 3 t?ng d?n d?u xu hu?ng nam 2020!</h5>
+                  <p>V?i di?n tích d?t dô th? h?n ch?, các m?u nhà ?ng 3 t?ng ngày càng tr? nên thông d?ng nh? hình
+                    th?c
+                    g?n gàng, dáp ?ng t?i da công nang s? d?ng ...
+                  </p>
+                  <!-- XEM THÊM -->
+                  <!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#slide4">
+                    XEM THÊM
+                  </button> -->
+                  <a href="tintuc/news4.html" class="stretched-link">Xem thêm</a>
+                  <!-- Modal -->
+                  <div class="modal fade" id="slide4" tabindex="-1" role="dialog"
+                    aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalCenterTitle">DFH Group</h5>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <div class="modal-body">
+                          <!--Custom-->
+                          <div id="page-content-wrapper">
+                            <!--Body-->
+                            <div class="container-fluid">
+                              <h1 class="mt-4">T?ng h?p m?u thi?t k? nhà ph? 3 t?ng d?n d?u xu hu?ng nam 2020!</h1>
+                              <p>V?i di?n tích d?t dô th? h?n ch?, các m?u nhà ?ng 3 t?ng ngày càng tr? nên thông d?ng
+                                nh? hình th?c
+                                g?n gàng, dáp ?ng t?i da công nang s? d?ng.</p>
+                              <p>Nh?ng m?u nhà ?ng 3 t?ng luôn du?c quan tâm nh?t là d?i v?i nh?ng can nhà ph?. Di?n
+                                tích d?t dô th?
+                                khá h?n ch? nên nh?ng can nhà ?ng ngày càng tr? nên ph? bi?n. Nh?ng m?u nhà ?ng 3 t?ng
+                                d?p du?c r?t
+                                nhi?u ngu?i san dón. Sau dây<code>DFH Group</code> xin t?ng h?p nh?ng m?u nhà ?ng 3 t?ng
+                                d?p b?n có
+                                th? d? dàng
+                                ?ng d?ng và thi?t k?.</p>
+                              <img src="assets/img/portfolio/slidenews/?nh/4.1.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/4.2.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/4.3.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/4.4.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/4.5.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/4.6.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/4.7.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/4.8.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/4.9.jpg" class="w-100" alt="">
+                              <p>Trên dây là m?t s? m?u thi?t k? nhà ph? 3 t?ng d?n d?u xu hu?ng, du?c nhi?u gia dình
+                                l?a ch?n trong
+                                nam 2020 mà chúng tôi t?ng h?p du?c.<code>DFH Group</code> hi v?ng b?n d?c s?m tìm du?c
+                                m?u nhà ung
+                                ý!
+                              </p>
+                            </div>
+                          </div>
+
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!--SLIDE-5-->
+            <div class="carousel-item">
+              <div class="row no-gutters bg-white position-relative">
+                <div class="col-md-6 mb-md-0 p-md-4">
+                  <img class="img-fluid" src="assets/img/logo.png" alt="" />
+                </div>
+                <div class="col-md-6 position-static p-4 pl-md-0">
+                  <h5 class="mt-0">5. T?ng h?p 100+ m?u thi?t k? nhà c?p 4 tuy?t d?p!</h5>
+                  <p>Nhà c?p 4 ngày càng du?c nhi?u ngu?i yêu thích không ch? b?i ki?n trúc da d?ng, t?n d?ng t?i da
+                    di?n tích c?a ngôi nhà mà chi phí xây d?ng l?i vô cùng h?p lý, phù h?p c? v?i gia dình nhi?u th?
+                    hi?n ...</p>
+                  <!-- XEM THÊM -->
+                  <!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#slide5">
+                    XEM THÊM
+                  </button> -->
+                  <a href="tintuc/news5.html" class="stretched-link">Xem thêm</a>
+                  <!-- Modal -->
+                  <div class="modal fade" id="slide5" tabindex="-1" role="dialog"
+                    aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalCenterTitle">DFH Group</h5>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <div class="modal-body">
+                          <!--Custom-->
+                          <div id="page-content-wrapper">
+                            <!--Body-->
+                            <div class="container-fluid">
+                              <h1 class="mt-4">T?ng h?p 100+ m?u thi?t k? nhà c?p 4 tuy?t d?p!</h1>
+                              <p>Nhà c?p 4 ngày càng du?c nhi?u ngu?i yêu thích không ch? b?i ki?n trúc da d?ng, t?n
+                                d?ng t?i da di?n
+                                tích c?a ngôi nhà mà chi phí xây d?ng l?i vô cùng h?p lý, phù h?p c? v?i gia dình nhi?u
+                                th? h?.</p>
+                              <b>M?u nhà c?p 4 mái thái</b>
+                              <img src="assets/img/portfolio/slidenews/?nh/5.10.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/5.9.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/5.8.jpg" class="w-100" alt="">
+                              <p>Ðây có l? là m?u nhà c?p 4 d?p ph? bi?n nh?t b?i thi?t k? mái thái l? m?t, quy?n ru.
+                                Ð?c di?m c?a nhà
+                                mái thái là m?u nhà ki?u ki?n trúc theo phong cách c?u trúc th?p t?ng và thu?ng là 1
+                                tr?t 1 t?ng.
+                                Các b? ph?n thi?t k? c?a nhà mái thái này bao g?m: Ph?n mái, c?a chính, c?a s? và mái
+                                che d?u d?u
+                                du?c thi?t k? theo nét ki?n trúc Thái. </p>
+                              <b>M?u nhà c?p 4 mái b?ng</b>
+                              <img src="assets/img/portfolio/slidenews/?nh/5.5.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/5.6.jpg" class="w-100" alt="">
+                              <p>Xu hu?ng thi?t k? nhà c?p 4 mái b?ng dang du?c lan r?ng hon bao gi? h?t, v?i không gian
+                                d?p c?a can
+                                nhà v?i ki?n trúc sang tr?ng, m?u nhà ? v?i các trang trí sinh d?ng, ph? c?nh màu s?c
+                                n?i b?t t?o
+                                không gian s?ng hoàn h?o c?a nhi?u h? gia dình hi?n nay.</p>
+                              <b>M?u nhà c?p 4 hi?n d?i</b>
+                              <img src="assets/img/portfolio/slidenews/?nh/5.4.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/5.3.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/5.2.jpg" class="w-100" alt="">
+                              <p>Nh?ng ngu?i tr?, cá tính thu?ng thích ki?u thi?t k? mang d?m màu s?c cá nhân hon là
+                                nh?ng ki?u nhà
+                                ph? bi?n nhu trên. Chính vì lý do dó mà các m?u nhà c?p 4 hi?n d?i ra d?i.
+                                Ða s? nh?ng công trình có hình kh?i r?t d?c dáo, kh?e kho?n bao chùm lên s? m?m m?i, s?
+                                hài hòa k?t
+                                h?p v?i du?ng nét nang d?ng t? nhiên… T?t c? dã làm nên m?t công trình mang v? d?p r?t
+                                riêng và l?
+                                m?t.
+                              </p>
+                              <b>M?u nhà c?p 4 don gi?n</b>
+                              <img src="assets/img/portfolio/slidenews/?nh/5.1.jpg" class="w-100" alt="">
+                              <p>V?i nh?ng ngu?i có ua s? don gi?n và ti?t ki?m chi phí thì nên ch?n m?u nhà không quá
+                                quan tr?ng hình
+                                th?c b? ngoài mà uu tiên cho s? ti?n d?ng bên trong. Có th? xem nh?ng m?u nhà c?p 4 don
+                                gi?n là m?t
+                                s? l?a ch?n phù h?p.</p>
+                              <p>Trên dây là m?t s? m?u thi?t k? nhà ph? 3 t?ng d?n d?u xu hu?ng, du?c nhi?u gia dình
+                                l?a ch?n trong
+                                nam 2020 mà chúng tôi t?ng h?p du?c.<code>DFH Group</code> hi v?ng b?n d?c s?m tìm du?c
+                                m?u nhà ung
+                                ý!
+                              </p>
+                              <b>M?u nhà c?p 4 gác l?ng</b>
+                              <img src="assets/img/portfolio/slidenews/?nh/5.7.jpg" class="w-100" alt="">
+                              <p>Nhà c?p 4 ? nông thôn v?i di?n tích r?ng, tho?i mái vì v?y khi l?a ch?n phong cách
+                                thi?t k? nhà ? là
+                                di?u vô cùng d? dàng. Các b?n có th? th?a s?c v?i nh?ng ý tu?ng thi?t k? nhà ? thân
+                                thi?n v?i thiên
+                                nhiên, hòa quy?n v?i môi tru?ng hon b?t kì noi nào khác. M?u nhà c?p 4 d?p ? nông thôn
+                                d?p m?t cách
+                                don gi?n nhung không kém ph?n hi?n d?i và tinh t?.</p>
+                            </div>
+                          </div>
+
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+            <!--SLIDE-6-->
+            <div class="carousel-item">
+              <div class="row no-gutters bg-white position-relative">
+                <div class="col-md-6 mb-md-0 p-md-4">
+                  <img class="img-fluid" src="assets/img/logo.png" alt="" />
+                </div>
+                <div class="col-md-6 position-static p-4 pl-md-0">
+                  <h5 class="mt-0">6. 10+ m?u thi?t k? phòng khách d?p, chu?n hi?n d?i!</h5>
+                  <p>Phòng khách là không gian vô cùng quan tr?ng, b?i ngoài là không gian ti?p khách, nó còn là khu
+                    v?c
+                    sinh ho?t chung c?a c? gia dình. V?y nên, phòng khách c?n du?c chú tr?ng trang trí sao cho d?p m?t
+                    ...</p>
+                  <!-- XEM THÊM -->
+                  <!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#slide6">
+                    XEM THÊM
+                  </button> -->
+                  <a href="tintuc/news6.html" class="stretched-link">Xem thêm</a>
+                  <!-- Modal -->
+                  <div class="modal fade" id="slide6" tabindex="-1" role="dialog"
+                    aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalCenterTitle">DFH Group</h5>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <div class="modal-body">
+                          <!--Custom-->
+                          <div id="page-content-wrapper">
+                            <!--Body-->
+                            <div class="container-fluid">
+                              <h1 class="mt-4">10+ m?u thi?t k? phòng khách d?p, chu?n hi?n d?i!</h1>
+                              <p>Phòng khách là không gian vô cùng quan tr?ng, b?i ngoài là không gian ti?p khách, nó
+                                còn là khu v?c
+                                sinh ho?t chung c?a c? gia dình. V?y nên, phòng khách c?n du?c chú tr?ng trang trí sao
+                                cho d?p m?t.
+                              </p>
+                              <p>Phòng khách luôn du?c xem là tâm di?m trong m?i ngôi nhà, noi các v? khách có th? dánh
+                                giá du?c ph?n
+                                nào khi?u th?m m? hay ngay c? tính cách c?a gia ch?. Ðây cung là noi dành cho các bu?i
+                                h?p thu?ng
+                                xuyên c?a m?i thành viên trong gia dình. Vì v?y mà phòng khách nên du?c trang trí m?t
+                                cách d?c dáo,
+                                hi?n d?i, sang tr?ng, nh?t là ph?i phù h?p v?i không gian ki?n trúc. Hãy
+                                cùng<code>DFH Group </code>
+                                khám phá 10+
+                                m?u thi?t k? phòng khách d?p, chu?n hi?n d?i nhé!</p>
+                              <img src="assets/img/portfolio/slidenews/?nh/6.3.png" class="w-100" alt="">
+                              <p>Hi v?ng qua bài vi?t này c?a chúng tôi, b?n dã l?a ch?n du?c m?u thi?t k? phòng khách
+                                phù h?p nh?t
+                                v?i gia dình mình!</p>
+                              <img src="assets/img/portfolio/slidenews/?nh/6.2.png" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/6.4.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/6.10.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/6.5.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/6.6.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/6.7.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/6.8.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/6.9.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/6.10.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/6.11.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/6.12.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/6.13.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/6.14.jpg" class="w-100" alt="">
+                            </div>
+                          </div>
+
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+            <!--SLIDE-7-->
+            <div class="carousel-item">
+              <div class="row no-gutters bg-white position-relative">
+                <div class="col-md-6 mb-md-0 p-md-4">
+                  <img class="img-fluid" src="assets/img/logo.png" alt="" />
+                </div>
+                <div class="col-md-6 position-static p-4 pl-md-0">
+                  <h5 class="mt-0">7. Ði?m qua 5 m?u nhà c?p 4 gác l?ng hi?n d?i, ti?n nghi cho m?i gia dình Vi?t!
+                  </h5>
+                  <p>Hi?n nay, nhu c?u xây nhà c?p 4 gác l?ng du?c nhi?u h? gia dình l?a ch?n b?i s? ti?n nghi, chi
+                    phí
+                    không quá cao, phù h?p v?i nhi?u h? gia dình. Gác l?ng giúp t?n d?ng t?i da không gian can nhà ...
+                  </p>
+                  <!-- XEM THÊM -->
+                  <!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#slide7">
+                    XEM THÊM
+                  </button> -->
+                  <a href="tintuc/news7.html" class="stretched-link">Xem thêm</a>
+                  <!-- Modal -->
+                  <div class="modal fade" id="slide7" tabindex="-1" role="dialog"
+                    aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalCenterTitle">DFH Group</h5>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <div class="modal-body">
+                          <!--Custom-->
+                          <div id="page-content-wrapper">
+                            <!--Body-->
+                            <div class="container-fluid">
+                              <h1 class="mt-4">Ði?m qua 5 m?u nhà c?p 4 gác l?ng hi?n d?i, ti?n nghi cho m?i gia dình
+                                Vi?t!</h1>
+                              <p>Hi?n nay, nhu c?u xây nhà c?p 4 gác l?ng du?c nhi?u h? gia dình l?a ch?n b?i s? ti?n
+                                nghi, chi phí
+                                không quá cao, phù h?p v?i nhi?u h? gia dình. Gác l?ng giúp t?n d?ng t?i da không gian
+                                can nhà.</p>
+                              <p>T?ng l?ng hay còn du?c g?i là gác xép hay gác l?ng là m?t trong nh?ng ki?n trúc nhà khá
+                                ph? bi?n hi?n
+                                nay. Ðó là m?t t?ng trung gian gi?a các t?ng trong m?t ngôi nhà ho?c m?t tòa nhà chính
+                                và do dó
+                                thu?ng không tính trong s? các t?ng t?ng th? c?a m?t tòa nhà.</p>
+                              <p>Nhà c?p 4 có gác l?ng du?c bi?t d?n nhu m?t cách h?u hi?u d? tang di?n tích s? d?ng
+                                không gian trong
+                                nhà. Gác l?ng giúp gia ch? t?n d?ng ph?n trên tr?ng c?a can nhà d? làm phòng làm vi?c
+                                ho?c phòng
+                                gi?i trí cho c? gia dình. Chính vì th?, gác l?ng r?t phù h?p v?i nh?ng h? gia dình s?
+                                h?u không gian
+                                nh? h?p cung nhu di?n tích d?t h?n ch? nhu nhà c?p 4.</p>
+                              <b>B?n v? thi?t k? m?u nhà c?p 4 có gác l?ng 5 x 15m (3 phòng ng?)</b>
+                              <img src="assets/img/portfolio/slidenews/?nh/7.15.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/7.13.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/7.14.jpg" class="w-100" alt="">
+                              <b>B?n v? thi?t k? m?u nhà c?p 4 gác l?ng 4 x 12m</b>
+                              <img src="assets/img/portfolio/slidenews/?nh/7.12.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/7.11.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/7.9.jpg" class="w-100" alt="">
+                              <b>B?n v? thi?t k? m?u nhà c?p 4 gác l?ng có gara ô tô hi?n d?i (3 phòng ng?)</b>
+                              <img src="assets/img/portfolio/slidenews/?nh/7.10.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/7.8.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/7.7.jpg" class="w-100" alt="">
+                              <b>B?n v? thi?t k? m?u nhà c?p 4 gác l?ng mái b?ng 5 x 15m (3 phòng ng?)</b>
+                              <img src="assets/img/portfolio/slidenews/?nh/7.6.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/7.5.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/7.2.jpg" class="w-100" alt="">
+                              <b>B?n v? thi?t k? m?u nhà c?p 4 gác l?ng mái thoái 5 x 15m</b>
+                              <img src="assets/img/portfolio/slidenews/?nh/7.4.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/7.1.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/7.3.jpg" class="w-100" alt="">
+                              <p>V?i các m?u b?n v? thi?t k? nhà c?p 4 có gác l?ng chi ti?t và hoàn ch?nh nh?t, giúp ch?
+                                d?u tu có
+                                thêm kinh nghi?m trong vi?c s?p x?p, b? trí không gian sinh ho?t cho ngôi nhà lý tu?ng
+                                c?a gia dình
+                                mình.<code>DFH Group</code> tin r?ng, v?i nh?ng phuong án thi?t k? nhà c?p 4 có gác l?ng
+                                này, tùy
+                                theo di?u ki?n
+                                kinh t?, di?n tích xây d?ng và nhu c?u s? d?ng b?n s? l?a ch?n du?c phuong án thi?t k?
+                                thích h?p
+                                nh?t.
+                              </p>
+                            </div>
+                          </div>
+
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+            <!--SLIDE-8-->
+            <div class="carousel-item">
+              <div class="row no-gutters bg-white position-relative">
+                <div class="col-md-6 mb-md-0 p-md-4">
+                  <img class="img-fluid" src="assets/img/logo.png" alt="" />
+                </div>
+                <div class="col-md-6 position-static p-4 pl-md-0">
+                  <h5 class="mt-0">8. B?t ng? khi phòng ng? ch? v?n v?n 5m du?c gia ch? bi?n hóa khác bi?t</h5>
+                  <p>Phòng ng? là noi chúng ta ngh? ngoi sau ngày làm vi?c m?t nh?c v?y nên không ti?c công s?c khi
+                    d?u
+                    tu th?i gian tu s?a l?i chính can phòng c?a b?n ...</p>
+                  <!-- XEM THÊM -->
+                  <!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#slide8">
+                    XEM THÊM
+                  </button> -->
+                  <a href="tintuc/news8.html" class="stretched-link">Xem thêm</a>
+                  <!-- Modal -->
+                  <div class="modal fade" id="slide8" tabindex="-1" role="dialog"
+                    aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalCenterTitle">DFH Group</h5>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <div class="modal-body">
+                          <!--Custom-->
+                          <div id="page-content-wrapper">
+                            <!--Body-->
+                            <div class="container-fluid">
+                              <h1 class="mt-4">B?t ng? khi phòng ng? ch? v?n v?n 5m du?c gia ch? bi?n hóa khác bi?t</h1>
+                              <p>Phòng ng? là noi chúng ta ngh? ngoi sau ngày làm vi?c m?t nh?c v?y nên không ti?c công
+                                s?c khi d?u tu
+                                th?i gian tu s?a l?i chính can phòng c?a b?n.</p>
+                              <p>Ð? có th? s? h?u phòng ng? d?p nh? 5m hi?n d?i, ban nên chú ý nh?ng nguyên t?c thi?t k?
+                                don gi?n và
+                                có tính th?c ti?n nhu:</p>
+                              <p>T?n d?ng t?ng kho?ng không c?n thi?t, gi?m thi?u t?i da nh?ng v?t d?ng không c?n thi?t
+                                ho?c ít s?
+                                d?ng trong không gian chung</p>
+                              <img src="assets/img/portfolio/slidenews/?nh/8.12.jpg" class="w-100" alt="">
+                              <p>Uu tiên s? d?ng h? t? theo phuong th?ng d?ng d?c thân tu?ng, v?a ti?t ki?m không gian
+                                theo chi?u
+                                ngang, v?a m? r?ng không gian s? d?ng theo chi?u d?c.</p>
+                              <p>Thi?t k? phòng ng? hu?ng sáng, g?n c?a s?, ho?c s? d?ng h? th?ng dèn di?n led âm tr?n
+                                d? t?o hi?u ?ng
+                                chi?u sâu cho không gian, t?o c?m giác thoáng dãng cho can phòng</p>
+                              <p>S? d?ng son sáng màu ho?c gi?y dán tu?ng màu sáng, h?n ch? s? d?ng nh?ng gam màu t?i có
+                                th? khi?n
+                                không gian thêm ph?n ch?t ch?i và tù túng hon.</p>
+                              <b>Bí quy?t l?a ch?n giu?ng ng? cho không gian nh? h?p
+                                L?a ch?n kích thu?c giu?ng phù h?p
+                              </b>
+                              <img src="assets/img/portfolio/slidenews/?nh/8.2.jpg" class="w-100" alt="">
+                              <p>N?u nhu không gian phòng ng? d? r?ng thì b?n có th? s? d?ng nh?ng chi?c giu?ng thông
+                                d?ng t? 1,6m d?n
+                                2m.</p>
+                              <p>S? d?ng ga giu?ng màu tr?ng ho?c màu sáng cung là cách t?o c?m giác cho phòng ng? r?ng
+                                hon, chí ít nó
+                                có th? giúp b?n t?o hi?u ?ng m? r?ng hon so v?i vi?c s? d?ng chi?c ga giu?ng màu t?i x?n
+                                màu</p>
+                              <b>Thi?t k? sàn màu sáng</b>
+                              <p>Sàn nhà màu sáng s? giúp cho không gian t?ng th? trông r?ng hon, hi?n d?i hon. Thi?t k?
+                                không gian
+                                t?ng th? màu sáng s? là cách an gian di?n tích rõ nét nh?t hi?n nay.</p>
+                              <img src="assets/img/portfolio/slidenews/?nh/8.3.jpg" class="w-100" alt="">
+                              <p>Sàn g? màu sáng, ho?c cung có th? s? d?ng g?ch ?p sàn nhà màu sáng di cùng v?i thi?t k?
+                                n?i th?t sáng
+                                màu, t?o nên hi?u ?ng t?ng quan theo chi?u hu?ng di?u ph?i tích c?c c?m giác. T? dó, xua
+                                tan c?m
+                                giác bí bách và ch?t ch?i c?a m?u thi?t k? phòng ng? nh? 5m2.</p>
+                              <img src="assets/img/portfolio/slidenews/?nh/8.4.jpg" class="w-100" alt="">
+                              <p>Hãy l?ng nghe ý ki?n c?a ki?n trúc su, hãy d? nh?ng chuyên gia thi?t k? và thu?n th?c
+                                v? phong thu?
+                                tr? giúp b?n. </p>
+                              <b>Nh?ng m?u phòng ng? nh? 5m nên tham kh?o</b>
+                              <img src="assets/img/portfolio/slidenews/?nh/8.5.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/8.6.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/8.7.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/8.8.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/8.9.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/8.10.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/8.11.jpg" class="w-100" alt="">
+                              <img src="assets/img/portfolio/slidenews/?nh/8.12.jpg" class="w-100" alt="">
+                              <p>Trên dây là m?t s? m?u thi?t k? nhà ph? 3 t?ng d?n d?u xu hu?ng, du?c nhi?u gia dình
+                                l?a ch?n trong
+                                nam 2020 mà chúng tôi t?ng h?p du?c.<code>DFH Group</code> hi v?ng b?n d?c s?m tìm du?c
+                                m?u nhà ung
+                                ý!
+                              </p>
+                            </div>
+                          </div>
+
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+            <!--SLIDE-9-->
+            <div class="carousel-item">
+              <div class="row no-gutters bg-white position-relative">
+                <div class="col-md-6 mb-md-0 p-md-4">
+                  <img class="img-fluid" src="assets/img/logo.png" alt="" />
+                </div>
+                <div class="col-md-6 position-static p-4 pl-md-0">
+                  <h5 class="mt-0">9. Cách ch?n giu?ng ng? nhu th? nào cho h?p lý?</h5>
+                  <p>Giu?ng ng? là v?t d?ng mà h?u h?t ? Vi?t Nam m?i nhà d?u có, nó là v?t d?ng hành v?i m?i ngu?i
+                    qua
+                    t?ng gi?c ng?, nh?ng lúc ngh? ngoi sau ngày làm vi?c m?t nh?c ...
+                  </p>
+                  <!-- XEM THÊM -->
+                  <!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#slide9">
+                    XEM THÊM
+                  </button> -->
+                  <a href="tintuc/news9.html" class="stretched-link">Xem thêm</a>
+                  <!-- Modal -->
+                  <div class="modal fade" id="slide9" tabindex="-1" role="dialog"
+                    aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalCenterTitle">DFH Group</h5>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <div class="modal-body">
+                          <!--Custom-->
+                          <div id="page-content-wrapper">
+                            <!--Body-->
+                            <div class="container-fluid">
+                              <<h1 class="mt-4">Cách ch?n giu?ng ng? nhu th? nào cho h?p lý?</h1>
+                                <p>Giu?ng ng? là v?t d?ng mà h?u h?t ? Vi?t Nam m?i nhà d?u có, nó là v?t d?ng hành v?i
+                                  m?i ngu?i qua
+                                  t?ng gi?c ng?, nh?ng lúc ngh? ngoi sau ngày làm vi?c m?t nh?c. </p>
+                                <p>Th? nhung, b?n dã bi?t cách ch?n giu?ng ng? nhu th? nào cho phù h?p chua? Hãy cùng
+                                  chúng tôi tìm hi?u
+                                  v? di?u thú v? này nhé! Du?i dây chúng tôi có li?t kê m?t s? ki?u giu?ng thông d?ng
+                                  hi?n nay:</p>
+                                <b>1. Giu?ng don</b>
+                                <b>Kích thu?c</b>
+                                <p>Giu?ng don là giu?ng có kích thu?c nh? thu?ng ch? dùng cho 1 ngu?i nhu: tr? em, ngu?i
+                                  d?c thân, …
+                                  Giu?ng don kích thu?c nh? nên ti?t ki?m di?n tích, kích thu?c ph? bi?n giu?ng don du?c
+                                  s? d?ng hi?n
+                                  nay là:</p>
+                                <img src="assets/img/portfolio/slidenews/?nh/9.3.jpg" class="w-100" alt="">
+                                <b>Giu?ng don l?n</b>
+                                <p>Giu?ng don l?n có chi?u r?ng lòng giu?ng s? d?ng là 1m4, chi?u r?ng t?m 2m chi?u dài.
+                                  Kích thu?c này
+                                  không quá l?n cung không quá nh?, nó phù h?p cho 2 tr? em nhung v?i ngu?i l?n thì ch?
+                                  nên 1 ngu?i là
+                                  d?.</p>
+                                <b>2. Giu?ng dôi</b>
+                                <p>Giu?ng ng? dôi thu?ng dành cho hai ngu?i l?n., kích thu?c chi?u dài tiêu chu?n là 2m.
+                                  Chi?u r?ng dao
+                                  d?ng t? 1m6, 1m8 d?n 2m.</p>
+                                <img src="assets/img/portfolio/slidenews/?nh/9.4.jpg" class="w-100" alt="">
+                                <p>Kích thu?c giu?ng dôi thông d?ng hi?n nay là 1m6x2m, 1m8x2m</p>
+                                <b>3. Giu?ng ng? d?c bi?t khác</b>
+                                <b>Giu?ng t?ng</b>
+                                <p>Giu?ng t?ng thi?t k? dành cho nh?ng không gian không quá r?ng nhung v?n gi? du?c
+                                  không gian tho?i mái
+                                  cho ngu?i s? d?ng. Giu?ng t?ng là k? sach thông minh giúp ti?t ki?m không gian nhung
+                                  v?n v?a v?n,
+                                  tho?i mái</p>
+                                <img src="assets/img/portfolio/slidenews/?nh/9.1.jpg" class="w-100" alt="">
+                                <p>Kích thu?c giu?ng t?ng ph? bi?n hi?n nay có chi?u r?ng t? 76cm d?n 84cm, chi?u dài là
+                                  190cm</p>
+                                <b>Giu?ng cui cho em bé</b>
+                                <p>Kích thu?c ph? bi?n nh?t là 71cm x 1m32. Giu?ng này chuyên dùng cho tr? so sinh d?n
+                                  tru?c 3 tu?i, d?
+                                  d?m b?o an toàn và không gian s? d?ng cho các bé.</p>
+                                <img src="assets/img/portfolio/slidenews/?nh/9.2.jpg" class="w-100" alt="">
+                                <h5>Nh?ng luu ý khi l?a ch?n kích thu?c giu?ng ng?</h5>
+                                <p>M?t vài luu ý b? túi cho b?n có nh?ng l?a ch?n dúng d?n khi ch?n mua giu?ng ng?.</p>
+                                <b>1. Ch?n giu?ng có kích thu?c phù h?p v?i phòng ng?</b>
+                                <p>Không nên l?a ch?n nh?ng m?u giu?ng ng? có kích thu?c quá nh?, s? khi?n can phòng tr?
+                                  nên tr?ng trãi
+                                  và l?nh l?o. Còn n?u nhu can phòng s? d?ng kích thu?c giu?ng quá l?n, s? khiên cho
+                                  không gian ch?t
+                                  ch?i và khó b? sinh ho?t.</p>
+                                <b>2. Ch?n kích thu?c giu?ng phù h?p v?i di?u ki?n t?ng th? c?a ngu?i s? d?ng</b>
+                                <p>Hai ngu?i l?n ho?c 2 tr? em s? có trong lu?ng co th? v?i chi?u cao và cân n?ng khác
+                                  nhau, nhu c?u ng?
+                                  ngh? cung khác nhau. Do dó khi l?a ch?n kích thu?c giu?ng ng?, nên can c? theo tình
+                                  hình th?c t? là
+                                  ngu?i l?n hay tr? em s? d?ng d? ch?n kích thu?c giu?ng cho khoa h?c.</p>
+                                <b>3. L?a ch?n kích thu?ng giu?ng ng? phù h?p v?i kinh phí d?u tu</b>
+                                <p>Tru?c khi l?a ch?n mua giu?ng ng? b?n cung ph?i d? ý d?n thái d? c?a ví ti?n d?y nhé!
+                                  L?a ch?n phù
+                                  h?p v?i kinh t? mình dang có thì lúc nào cung là cách chi tiêu t?i uu nh?t.</p>
+                                <b>4. Kích thu?c giu?ng ng? ph?i có tính thông d?ng</b>
+                                <p>Khi b?n ch?n giu?ng ng? cung ph?i d? ý các anh b?n di cùng v?i giu?ng ng? là chan ga
+                                  g?i d?m d?y vì
+                                  khi b?n ch?n kích thu?c quá khác v?i kích thu?c thu?ng dùng thì s? r?t khó mua các v?t
+                                  d?ng di kèm
+                                  khác.</p>
+                                <p>Trên dây là các g?i ý cung nhu ki?n th?c c?n có d? b?n có th? s? h?u 1 chi?c giu?ng
+                                  phù h?p v?i mình.
+                                </p>
+                            </div>
+                          </div>
+
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+            <!--SLIDE-10-->
+            <div class="carousel-item">
+              <div class="row no-gutters bg-white position-relative">
+                <div class="col-md-6 mb-md-0 p-md-4">
+                  <img class="img-fluid" src="assets/img/logo.png" alt="" />
+                </div>
+                <div class="col-md-6 position-static p-4 pl-md-0">
+                  <h5 class="mt-0">10. Ð?t b?p theo tu?i c?a ch?ng hay v? d? ru?c tài l?c vào nhà?</h5>
+                  <p>Hu?ng b?p theo tu?i v? hay ch?ng d?u không quan tr?ng b?ng vi?c ch?n dúng hu?ng b?p theo phong
+                    th?y
+                    mang d?n phúc l?c, may m?n, h?nh phúc và s?c kh?e cho các thành viên s?ng trong gia dình ...</p>
+                  <!-- XEM THÊM -->
+                  <!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#slide10">
+                    XEM THÊM
+                  </button> -->
+                  <a href="tintuc/news10.html" class="stretched-link">Xem thêm</a>
+                  <!-- Modal -->
+                  <div class="modal fade" id="slide10" tabindex="-1" role="dialog"
+                    aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalCenterTitle">DFH Group</h5>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <div class="modal-body">
+                          <!--Custom-->
+                          <div id="page-content-wrapper">
+                            <!--Body-->
+                            <div class="container-fluid">
+                              <h1 class="mt-4">Ð?t b?p theo tu?i c?a ch?ng hay v? d? ru?c tài l?c vào nhà?</h1>
+                              <h2>1. Xem hu?ng b?p theo tu?i v? hay ch?ng ?</h2>
+                              <p>Hu?ng b?p theo tu?i v? hay ch?ng d?u không quan tr?ng b?ng vi?c ch?n dúng hu?ng b?p
+                                theo phong th?y
+                                mang d?n phúc l?c, may m?n, h?nh phúc và s?c kh?e cho các thành viên s?ng trong gia
+                                dình.</p>
+                              <img src="assets/img/portfolio/slidenews/?nh/10.1.jpg" class="w-100" alt="">
+                              <b>a) Hu?ng b?p theo tu?i v? hay ch?ng theo tru?ng phái Bát Tr?ch:</b>
+                              <p>Theo nhu phuong pháp Bát Tr?ch d? cân b?ng âm duong gi?a tu?i – hu?ng nhà – hu?ng c?a –
+                                hu?ng d?t b?p
+                                c?a t?ng gia ch?. Phong Th?y Bát Tr?ch: Sinh Khí, Thiên Y, Diên Niên, Tuy?t M?nh, Ph?c
+                                Vì, Ngu Qu?,
+                                L?c Sát, H?a H?i.</p>
+                              <p>– Y?u t? quan tr?ng nh?t khi xây m?t can b?p là d?t b?p ? cung x?u, c?a b?p hu?ng v?
+                                cung t?t. N?u
+                                d?t nh?m vào cung t?t nhu Sinh Khí thì không t?t cho con cái; Diên Niên s? do?n m?nh, v?
+                                ch?ng kh?c
+                                kh?u; Ph?c v? s? nghèo dói quanh nam.</p>
+                              <p>– Ngu?c l?i n?u b?p ? 4 cung x?u nhu Tuy?t M?nh s? kh?e m?nh, s?ng lâu, thêm tài l?c;
+                                L?c Sát không
+                                b?nh t?t, s?ng yên ?n; H?a H?i s? không b? th?t thoát ti?n b?c, không hao t?n nhân kh?u;
+                                Ngu Qu? s?
+                                không có tai h?a.</p>
+                              <p>– Bi?u d? bát quái c?a toàn b? can nhà theo tu?i ngu?i ch?ng v?i 4 hu?ng t?t và 4 hu?ng
+                                x?u. Nên dù
+                                có th? nào, b?n cung ch? du?c ch?n v? trí nhà b?p theo các cung: ngu qu?, l?c sát, tuy?t
+                                m?nh, h?a
+                                h?i.</p>
+                              <p>Ví d?: ngu?i thu?c Ðông t? m?nh s? có các thu?c Ðông t? m?nh có các hu?ng t?t dó là:
+                                Nam, B?c, Ðông,
+                                Ðông Nam. Tuong t?, ngu?i thu?c Tây t? m?nh s? có các hu?ng t?t là Tây, Tây Nam, Tây
+                                B?c, Ðông B?c.
+                              </p>
+                              <p>Ð?ng th?i màu s?c các v?t d?ng trong b?p cung d?a vào tu?i gia ch? theo m?nh Kim, M?c,
+                                Th?y, H?a, Th?
+                                d? ch?n màu phù h?p.</p>
+                              <b>b) Hu?ng b?p theo tu?i v? hay ch?ng theo phong th?y: </b>
+                              <p>Nhân gian hay có câu “dàn ông làm nhà, dàn bà làm b?p” d? nh?c nh? vai trò c?a ngu?i
+                                ch?ng và ngu?i
+                                v? trong gia dình ch? không ph?i vi?c xây nhà xem theo tu?i ch?ng còn vi?c xây b?p xem
+                                theo tu?i v?
+                                dâu nhé.</p>
+                              <p>Do dó, trong phong th?y xem hu?ng b?p s? d?ng tu?i âm c?a ngu?i ch?ng (ch? h?) trong
+                                gia dình. Nhung
+                                luu ý:</p>
+                              <p>+ Tu?i ngu?i ch?ng không quá 60 tu?i ho?c con cháu còn nh? tu?i chua l?p gia dình .</p>
+                              <p>+ N?u nhà không có dàn ông mà toàn là n? thì l?y tu?i c?a ngu?i ph? n? là ch? h? c?a
+                                gia dình nhung
+                                không quá 60 tu?i ho?c con cháu còn nh? tu?i chua l?p gia dình.</p>
+                              <h2>2. Ch?n hu?ng b?p theo tu?i v? hay ch?ng “t?a hung hu?ng cát”</h2>
+                              <img src="assets/img/portfolio/slidenews/?nh/10.2.jpg" class="w-100" alt="">
+                              <b>a) Ð?t b?p theo hu?ng lành</b>
+                              <p>– N?u d?t lên m?nh M?c hu?ng Sinh khí ?ng: Gia ch? khó v? du?ng t? t?c, b? ngu?i khác
+                                ph? báng, không
+                                có ti?n tài; Ngu?i trong gia dình d? b? ?m b?nh tang thuong, gia súc m?t mát.</p>
+                              <p>– N?u d?t lên hu?ng Thiên y ?ng: gia ch? nhà b? ?m y?u kéo dài.</p>
+                              <p>– N?u d?t lên hu?ng Diên niên ?ng: gia ch? nhà không có ti?n tài d? dành, hôn nhân khó
+                                thành, v?
+                                ch?ng b?t hòa, ngu?i trong gia dình ?m dau, ru?ng vu?n, gia súc l?n b?i.</p>
+                              <p>– N?u d?t lên hu?ng Ph?c v? ?ng: gia ch? nhà không có ti?n tài kh?n khó, m?i vi?c không
+                                thu?n l?i.
+                              </p>
+                              <b>b) Ð?t b?p theo hu?ng d?</b>
+                              <p>– N?u d?t lên hu?ng Tuy?t m?nh ?ng: Ch? nhà kh?e m?nh, thêm con, d? nuôi; phát tài,
+                                thêm nhân kh?u.
+                              </p>
+                              <p>– N?u d?t lên hu?ng L?c sát ?ng: Ch? nhà không b? r?c r?i ki?n t?ng, có ti?n tài; không
+                                b? h?a ho?n,
+                                không b? m?t ngu?i.</p>
+                              <p>– N?u d?t lên hu?ng H?a h?i ?ng: Ch? nhà không b? r?c r?i ki?n t?ng, không b? ?m dau,
+                                gi? du?c c?a
+                                c?i.</p>
+                              <p>– N?u d?t lên hu?ng Ngu qu? ?ng: ch? nhà không b? m?t c?p, ngu?i ? trung thành; phát
+                                tài, không có
+                                hi?m h?a, b?nh t?t; ru?ng vu?n gia súc nhi?u.</p>
+                              <h2>3. Luu ý khi d?t hu?ng b?p theo phong th?y:</h2>
+                              <p>– Không d?t b?p t?i nh?ng noi có du?ng di.</p>
+                              <p>– Tránh c?a nhà th?ng v?i b?p, hu?ng b?p không du?c d?t cùng v?i hu?ng c?a chính.</p>
+                              <p>– Tránh d?t b?p ? nh?ng noi có gió l?n.</p>
+                              <p>– B?p không nên d?t du?i xà nhà.</p>
+                              <p>– Không d?t b?p du?i g?m c?u thang ho?c nhà v? sinh.</p>
+                              <p>– Tránh d?t b?p d?i di?n v?i c?a phòng ng?, nhu v?y s? làm cho ngu?i n?m ng? b? b?nh
+                                lâu kh?i.</p>
+                              <p>– Không d?t b?p n?u g?n v?i vòi nu?c, ch?u r?a, t? l?nh, máy gi?t vì H?a k? Th?y, nên
+                                ph?i d?t cách
+                                nhau ít nh?t là 60cm.</p>
+                              <p>– Nh?ng thi?t b? nhà b?p d? n?u nu?ng nhu: b?p ga, b?p di?n, lò vi sóng… ph?i d?t ?
+                                cùng m?t hu?ng.
+                              </p>
+                              <p>– N?u s? d?ng t? b?p ki?u ch? L hay t? b?p hình ch? nh?t thì m?t d?u t? tránh dâm th?ng
+                                vào c?a
+                                toilet, nhu v?y s? mang l?i tai h?a cho gia ch?.</p>
+                              <p>Dù hu?ng nhà không du?c nhu ý thì vi?c d?t b?p và hu?ng b?p s? là m?t y?u t? cân d?i
+                                l?i vi?c t?t,
+                                x?u trong phong th?y c?a ngôi nhà.</p>
+                            </div>
+                          </div>
+
+                        </div>
+                        <div class="modal-footer">
+
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+      </div>
+    </div>
+    </section>
+    <!-- Contact-->
+    <section class="page-section bg-light" id="contact">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-8 text-center">
+            <h2 class="mt-0">Liên h? v?i chúng tôi ngay nào !</h2>
+            <hr class="divider my-4" />
+            <p class="text-muted mb-5">T? ?m c?a ngu?i tinh t? -
+              khi không gian s?ng là tác ph?m ngh? thu?t
+            </p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 ml-auto text-center mb-5 mb-lg-0">
+            <i class="fab fa-facebook fa-3x mb-3 text-muted"></i>
+            <div>Fanpage: dfhgroupvietnam</div>
+          </div>
+          <div class="col-lg-4 mr-auto text-center mb-5 mb-lg-0">
+            <i class="fas fa-globe-asia fa-3x mb-3 text-muted"></i>
+            <!-- Make sure to change the email address in BOTH the anchor text and the link target below!-->
+            <div>Ð?a ch?: Tr?n Phú - Hà Ðông - Hà N?i</div>
+          </div>
+          <div class="col-lg-4 mr-auto text-center">
+            <i class="fas fa-envelope fa-3x mb-3 text-muted"></i>
+            <!-- Make sure to change the email address in BOTH the anchor text and the link target below!-->
+            <a class="d-block" href="mailto:Dfhgroup@gmail.com">Dfhgroup@gmail.com</a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Footer-->
+    <footer class="bg-light py-5">
+      <div class="container">
+        <div class="small text-center text-muted">
+          Thi?t k? web b?i : Lê Minh Tùng - Liên h? : 0352986312
+        </div>
+      </div>
+    </footer>
+    <!-- Animation-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+    <!-- Bootstrap core JS-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+    <!-- Third party plugin JS-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="js/scripts.js"></script>
+    <script src="js/scripts2.js"></script>
+    <script src="js/animation.js"></script>
+</body>
+
+</html>
